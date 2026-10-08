@@ -1,0 +1,26 @@
+{
+    "model": "XGBoost",
+    "threshold": 0.5,
+    "training_rows": 535500,
+    "test_rows": 94500,
+    "metrics": {
+        "accuracy": 0.8884550264550265,
+        "precision": 0.8818109839487511,
+        "recall": 0.8674707326283988,
+        "f1": 0.8745820790748033,
+        "roc_auc": 0.9551451259894415,
+        "average_precision": 0.9482301123137674
+    },
+    "confusion_matrix": [
+        [
+            47206,
+            4926
+        ],
+        [
+            5615,
+            36753
+        ]
+    ],
+    "synthetic_dataset": true,
+    "clinical_use": false
+}

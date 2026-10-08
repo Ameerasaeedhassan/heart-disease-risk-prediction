@@ -1,0 +1,29 @@
+Feature,Mean_Absolute_SHAP
+categorical__Thallium_3,0.8853734
+categorical__Chest pain type_4,0.87736267
+numerical__Max HR,0.6862021
+categorical__Number of vessels fluro_0,0.5527083
+categorical__Slope of ST_1,0.37403277
+categorical__Exercise angina_0,0.3680032
+numerical__ST depression,0.3672635
+categorical__Sex_0,0.3369532
+numerical__Age,0.32030556
+categorical__Thallium_7,0.27100548
+numerical__Cholesterol,0.1354408
+categorical__EKG results_2,0.13394192
+numerical__BP,0.0722556
+categorical__Number of vessels fluro_1,0.07182208
+categorical__EKG results_0,0.060724404
+categorical__Sex_1,0.05755531
+categorical__Slope of ST_2,0.051874317
+categorical__Exercise angina_1,0.05091647
+categorical__Chest pain type_1,0.045885514
+categorical__Number of vessels fluro_2,0.04203522
+categorical__Number of vessels fluro_3,0.019412156
+categorical__Chest pain type_3,0.016286459
+categorical__Chest pain type_2,0.0131068
+categorical__FBS over 120_0,0.0065559214
+categorical__Slope of ST_3,0.0054564043
+categorical__Thallium_6,0.0009832425
+categorical__FBS over 120_1,0.0009796736
+categorical__EKG results_1,0.00047141503
